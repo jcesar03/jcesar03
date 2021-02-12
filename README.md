@@ -1,6 +1,3 @@
-<!--
-**jcesar03/jcesar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Olá Pessoal
 me chamo Júlio Cesar, tenho 26 anos sou estudante de Analise e Desenvolvimento de sistemas 3º Semestre, conhecimento basico em html, css e javascript
 
