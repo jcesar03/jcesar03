@@ -1,6 +1,9 @@
 ## Olá, me chamo Júlio Cesar 👋😁
 🔭 Estudante de analise e desenvolvimento de sistemas em transição de carreira.
+
 🌱 Estudando Javascript, React, and Typescript.
+
+### Github stats
 
 <div align="center">
   <a href="https://github.com/jcesar03">
