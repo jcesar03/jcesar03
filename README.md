@@ -1,5 +1,5 @@
 ## Olá, me chamo Júlio Cesar 👋😁
-🔭 Estudante de analise e desenvolvimento de sistemas em transição de carreira.
+🔭 Formado analise e desenvolvimento de sistemas em transição de carreira.
 
 🌱 Estudando Javascript, React, and Typescript.
 
